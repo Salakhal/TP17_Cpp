@@ -35,7 +35,7 @@ Point 1 : (0, 0, 0)
 Point 2 : (1.5, 2.5, 3.5)
 
 ```
-![Uploading image.png…]()
+<img width="636" height="112" alt="image" src="https://github.com/user-attachments/assets/d56037e8-b579-46cb-954c-2d94d8088438" />
 
 
 # Exercice 2 – Mini-bibliothèque géométrique
@@ -48,7 +48,8 @@ L’objectif est d’apprendre à structurer un projet C++ avec des dossiers d�
  ## Sortie attendue :
 
 
-![Uploading image.png…]()
+<img width="945" height="112" alt="image" src="https://github.com/user-attachments/assets/e808e4e6-55de-422c-b9e0-ab59d14ab8fa" />
+
 
 ##  Exercice 3 – Création d’une librairie statique (.a) ou partagée (.so)
 
@@ -67,7 +68,8 @@ Ces classes seront compilées en :
 
   ## Sortie attendue :
 
-  ![Uploading image.png…]()
+ <img width="706" height="119" alt="image" src="https://github.com/user-attachments/assets/96527678-b7de-4708-9ea3-48e6e7be5b92" />
+
 
 
    ## Exercice 4 – Classe template et fichier d’en-tête uniquement
@@ -79,6 +81,7 @@ Toutes les définitions doivent être placées **dans le fichier d’en-tête** 
 
  ## Sortie attendue :
 
-![Uploading image.png…]()
+<img width="877" height="406" alt="image" src="https://github.com/user-attachments/assets/a44c1f16-3037-4aea-8208-1a998cce8628" />
+
 
  
